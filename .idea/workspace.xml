@@ -32,7 +32,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\admin\PycharmProjects\python_tutorial\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1W0ddC3L1iKQSwb60PgfwrjOMFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -98,7 +106,7 @@
       <updated>1578290530975</updated>
       <workItem from="1578290815200" duration="12101000" />
       <workItem from="1578322691625" duration="753000" />
-      <workItem from="1578463617089" duration="2476000" />
+      <workItem from="1578463617089" duration="2891000" />
     </task>
     <servers />
   </component>
